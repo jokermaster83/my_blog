@@ -1,4 +1,4 @@
-# [Jokermaster Blog]
+# Jokermaster Blog
 
 ## 概述
 简短介绍你的个人博客，包括它的主题、内容类型以及你的写作风格。
